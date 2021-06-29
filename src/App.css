@@ -1,0 +1,18 @@
+html,
+body {
+  box-sizing: border-box;
+}
+.App {
+  text-align: center;
+  padding: 10px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+label,
+input {
+  width: 100%;
+}
+.temp-fields {
+  text-align: left;
+}
