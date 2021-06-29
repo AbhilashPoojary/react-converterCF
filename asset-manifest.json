@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-converterCF/static/css/main.e335348c.chunk.css",
+    "main.js": "/react-converterCF/static/js/main.d2966a9c.chunk.js",
+    "main.js.map": "/react-converterCF/static/js/main.d2966a9c.chunk.js.map",
+    "runtime-main.js": "/react-converterCF/static/js/runtime-main.9f5acbc9.js",
+    "runtime-main.js.map": "/react-converterCF/static/js/runtime-main.9f5acbc9.js.map",
+    "static/js/2.0f2be32d.chunk.js": "/react-converterCF/static/js/2.0f2be32d.chunk.js",
+    "static/js/2.0f2be32d.chunk.js.map": "/react-converterCF/static/js/2.0f2be32d.chunk.js.map",
+    "index.html": "/react-converterCF/index.html",
+    "static/css/main.e335348c.chunk.css.map": "/react-converterCF/static/css/main.e335348c.chunk.css.map",
+    "static/js/2.0f2be32d.chunk.js.LICENSE.txt": "/react-converterCF/static/js/2.0f2be32d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f5acbc9.js",
+    "static/js/2.0f2be32d.chunk.js",
+    "static/css/main.e335348c.chunk.css",
+    "static/js/main.d2966a9c.chunk.js"
+  ]
+}
